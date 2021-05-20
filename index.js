@@ -17,7 +17,6 @@ const io = socket(server, {
 app.use(cors())
 
 app.get("/", (req, res) => {
-    res.send("Backend running")
     res.redirect("https://vc-frontend-sm.netlify.app/");
 })
 
