@@ -166,7 +166,7 @@ Project Link: [https://github.com/SaswatM-62/CryptoTrack](https://github.com/Sas
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SaswatM-62//Video-Call-Application-Backend?color=Green&style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/SaswatM-62/Video-Call-Application-Backend?color=Green&style=for-the-badge
 [contributors-url]: https://github.com/SaswatM-62/Video-Call-Application-Backend/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/SaswatM-62/Video-Call-Application-Backend?style=for-the-badge
 [forks-url]: https://github.com/SaswatM-62/Video-Call-Application-Backend/network/members
