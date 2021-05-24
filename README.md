@@ -150,7 +150,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 Saswat Mishra - [@TheSaswat](https://twitter.com/TheSaswat) - [LinkedIn][linkedin-url] - saswat.mish62@gmail.com
 
-Project Link: [https://github.com/SaswatM-62/CryptoTrack](SaswatM-62/Video-Call-Application-Backend)
+Project Link: [https://github.com/SaswatM-62/Video-Call-Application-Backend](https://github.com/SaswatM-62/Video-Call-Application-Backend)
 
 
 
