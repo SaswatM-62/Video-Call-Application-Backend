@@ -10,20 +10,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/cryptocurrency.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/SaswatM-62/Video-Call-Application-Backend">
+    <img src="images/video-call.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">CryptoTrack</h3>
+  <h3 align="center">Video Call Application Backend</h3>
 
   <p align="center">
-    A cryptocurrency price tracker built using React.js and CoinGecko API
+    The backend of a video call application built using Express.js and Socket.io
     <br />
-    <a href="https://cryptotrack-sm.netlify.app/">View Demo</a>
+    <a href="https://videocsm.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/SaswatM-62/Video-Call-Application-Backend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/SaswatM-62/Video-Call-Application-Backend/issues">Request Feature</a>
   </p>
 </p>
 
@@ -60,23 +60,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://cryptotrack-sm.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://videocsm.herokuapp.com/)
 
-This project is a cryptocurrency price tracker built using React.js that displays the top 200 cryptocurrencies according to their market cap fetched from CoinGecko API. 
-
-The application includes the following features:
-* View the price, the market cap, the volume in the last 24 hours and the percentage change in the last 24 hours of the cryptocurrencies.
-* Search for specific cryptocurrencies.
-* Supports 47 different currency markets in terms of which the cryptocurrencies can be viewed.
-
-The project is bootstrapped using create-react-app.  
-  
+This project consists of the backend of Video Call Application. The frontend repository can be found here: [Frontend](https://github.com/SaswatM-62/Video-Call-Application-Backend).  
+The backend is built using Express.js and to facilitate real-time communication between the two clients Socket.io library has been used.  
+The backend server must be running before the running the client-side code for the application to work.
       
 ### Built With
 
 The project is built with
-* [CoinGecko API](https://www.coingecko.com/en/api)
-* [React](https://reactjs.org/)
+* [Express.js](https://expressjs.com/)
+* [Socket.io](https://socket.io/)
 
   
 
@@ -93,17 +87,21 @@ You need to have Node.js installed to run this application
   ```sh
   npm install npm@latest -g
   ```
+* nodemon
+  ```sh
+  npm install nodemon -g
+  ```
   
   
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SaswatM-62/CryptoTrack.git
+   git clone https://github.com/SaswatM-62/Video-Call-Application-Backend.git
    ```
 2. Open the project folder in the terminal
    ```sh
-   cd CryptoTrack
+   cd Video-Call-Application-Backend
    ```
 3. Install NPM packages
    ```sh
@@ -116,14 +114,14 @@ You need to have Node.js installed to run this application
 
 Once you have completed the installation, you can run the development server locally by executing the following command in the terminal
    ```sh
-   npm start
+   npm run devStart
    ```
-This will start a development server on port 3000.
+This will start the development server on port 5000.
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SaswatM-62/Video-Call-Application-Backend/issues) for a list of proposed features (and known issues).
 
 
 
@@ -152,7 +150,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 Saswat Mishra - [@TheSaswat](https://twitter.com/TheSaswat) - [LinkedIn][linkedin-url] - saswat.mish62@gmail.com
 
-Project Link: [https://github.com/SaswatM-62/CryptoTrack](https://github.com/SaswatM-62/CryptoTrack)
+Project Link: [https://github.com/SaswatM-62/CryptoTrack](SaswatM-62/Video-Call-Application-Backend)
 
 
 
