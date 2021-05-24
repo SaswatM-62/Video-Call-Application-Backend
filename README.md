@@ -159,7 +159,7 @@ Project Link: [https://github.com/SaswatM-62/CryptoTrack](SaswatM-62/Video-Call-
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [Font Awesome](https://fontawesome.com)
-* [Flat Icons](https://flat-icons.com/)
+* [UXWing](https://uxwing.com/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
